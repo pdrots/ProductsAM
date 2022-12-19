@@ -10,8 +10,11 @@ Projeto com base no Desafio proposto pela AUTOGLASS que busca a criação de uma
 <img align="left" alt="AutoMapper" width="26px" src="https://avatars.githubusercontent.com/u/890883?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="padding-right:10px;" />
 
-
 <br />
+<br />
+
+![Screenshot_3](https://user-images.githubusercontent.com/90618377/208532313-c48cdbb8-d16b-42ed-8444-0d71f9f21680.png)
+
 <br />
 
 ---
