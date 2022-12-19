@@ -1,6 +1,6 @@
 # DESAFIO DE PROGRAMAÇÃO - AUTOGLASS 🧠
 
-Projeto com base no Desafio proposto pela INFLEUX que busca a implementação de um serviço de Rede de Anúncios, contando com um WEB APP onde é permitido a criação/edição de anuncios e também com uma API simplificada que tem como objetivo exibir os anuncios onde em teoria seriam publicados.
+Projeto com base no Desafio proposto pela AUTOGLASS que busca a criação de uma WEB API para gestão de produtos.
 
 ### Ferramentas e Linguagens:
 
